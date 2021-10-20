@@ -23,9 +23,9 @@
 }
 
 .app__input {
-  flex: 1;
+  flex: 0.95;
 }
 .app__iconButton {
-  flex: 0;
+  flex: 0.05;
 }
 
